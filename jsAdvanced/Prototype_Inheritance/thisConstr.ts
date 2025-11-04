@@ -1,4 +1,3 @@
-
 let Car = {
 	brand: "Honda",
 	getBrand: function() {
